@@ -1,5 +1,3 @@
-require 'pry'
-
 class Serializer
   attr_accessor :object
 
